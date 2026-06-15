@@ -12,6 +12,5 @@ HTML ve CSS ile hazırlanmış basit bir buton tasarımı projesi.
 - CSS
 
 
-## Demo
-
-![Buton Demo](./Buton1/demo.gif)
+#Nasıl Çalıştırılır?
+Projeyi indirdikten sonra `index.html` dosyasını tarayıcıda açabilirsiniz.
