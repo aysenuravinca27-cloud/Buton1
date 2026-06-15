@@ -11,8 +11,7 @@ HTML ve CSS ile hazırlanmış basit bir buton tasarımı projesi.
 - HTML
 - CSS
 
-## Demo
 
 ## Demo
 
-![Buton Demo](./Buton1/assets/demo.gif)
+![Buton Demo](./Buton1/demo.gif)
