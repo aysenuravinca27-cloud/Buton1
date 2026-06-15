@@ -1,13 +1,16 @@
-# Button Component
+# Buton
 
-This is a simple button design project created with HTML and CSS.
+HTML ve CSS ile hazırlanmış basit bir buton tasarımı projesi.
 
-## Features
-- Custom button style
-- Hover effect
-- Basic CSS styling
-- Clean and simple layout
+## Özellikler
+- Hover efekti
+- Basit ve temiz tasarım
+- CSS ile stil düzenleme
 
-## Technologies
+## Kullanılan Teknolojiler
 - HTML
 - CSS
+
+## Demo
+
+![Buton Demo](./assets/demo.gif)
